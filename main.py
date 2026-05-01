@@ -117,3 +117,125 @@
 #         else:
 #             diaganal+=" "
 #     print(diaganal)
+
+
+# Tog'ri burchakli uchburchak
+
+# n=5
+# ssum=""
+# for i in range(n):
+#     ssum+="*"
+#     print(ssum)
+
+
+# Teskari tog'ri burchakli uchburchak
+
+# n=5
+ 
+# for j in range(n,0,-1):
+#     print("*"*j)
+
+# Sonlar uchburchagi
+
+# n=5
+ 
+# n=5
+# ssum=""
+
+# for x in range(1,n+1):
+#     for j in range(n+1):
+#         if x==j:
+#             ssum+=f"{j}"
+#         else:
+#             ssum+=""
+#     print(ssum)
+
+
+# Sonlar uchburchagi tartibli varianti
+
+# n=5
+# ssum=""
+
+# for x in range(1,n+1):
+#     for j in range(n+1):
+#         if x==j:
+#             ssum=f"{j}"*j
+#         else:
+#             ssum+=""
+#     print(ssum)
+
+
+
+# Parallelogram
+
+# n=5
+
+# for x in range(n):
+#     ssum=""
+#     for j in range(n):
+#         if x==j:
+#             ssum+="*"*5
+#         else:
+#             ssum+=" "
+#     print(ssum)
+
+
+# To'rtburchak qolibi
+
+# n=5
+
+# for x in range (n):
+#     ssum=""
+#     for j in range(1,n+1):
+#         if x+j==n:
+#             ssum+="b"
+#     print(ssum) cholo 
+
+# Diaganal va uchburchaklar
+
+
+# n=5
+
+# for x in range (n):
+#     ssum=""
+#     for j in range(n):
+#         if x==j:
+#             ssum+="*"
+#         elif x<j:
+#             ssum+="+"
+#         elif x>j:
+#             ssum+="-"
+#     print(ssum)
+
+# yulduzli x 
+# keyinroq ishliman
+
+
+
+
+
+
+# teskari parallelogram
+
+# n=5
+
+# for x in range (n):
+#     ssum=""
+#     for j in range(n):
+#         if n-x==j:
+#             ssum+="*"*n
+#         else:
+#             ssum+=" "
+#     print(ssum)
+
+
+# G'alati parallelogram
+# keyinroq ishliman
+
+
+
+
+
+# uchburchak
+
+
